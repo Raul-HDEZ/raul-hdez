@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raul Hernández</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raul-hdez&label=Profile%20views&color=0e75b6&style=flat" alt="raul-hdez" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=raul-hdez&label=Profile%20views&color=0e75b6&style=flat" alt="raul-hdez" /> </p>
 
 - 📄 Linkedin [hernandez-raul](https://www.linkedin.com/in/hernandez-raul/)
 
