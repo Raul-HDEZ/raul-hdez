@@ -41,5 +41,5 @@
 
 <h5>Other</h5>
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a><a href="https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--WHWcjNdE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://my-bucket-image2.s3.amazonaws.com/ImageGitHub/git-flow-logo.png" alt="gitflow" width="50" height="50"/> </a>
 </p>
