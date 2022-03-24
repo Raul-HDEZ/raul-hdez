@@ -30,7 +30,8 @@
 <h5>Database</h5>
 <p align="left">
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a><a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/> </a><a href="https://aws.amazon.com/es/dynamodb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="dynamodb" width="50" height="50"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a><a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/> </a><a href="https://aws.amazon.com/es/dynamodb/" target="_blank" rel="noreferrer"> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a6/5a3fc03aa849d8bfe1633b15a6ae00/DynamoDBicon-08.jpg?auto=format%2Ccompress&dpr=1
+" alt="dynamodb" width="50" height="50"/> </a>
 </p>
 
 <h5>DevOps</h5>
