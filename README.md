@@ -36,7 +36,7 @@
 <h5>DevOps</h5>
 <p align="left">
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.kafsolutions.com/wp-content/uploads/2021/08/Amazon_Web_Services-Logo.wine_.png" alt="aws" width="50" height="50"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj" alt="aws" width="50" height="50"/> </a>
 </p>
 
 <h5>Other</h5>
