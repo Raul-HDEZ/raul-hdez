@@ -61,5 +61,5 @@
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats-one-delta-27.vercel.app/api?username=raul-hdez&count_private=true)
+![GitHub stats](https://github-readme-stats-one-delta-27.vercel.app/api?username=raul-hdez&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats-one-delta-27.vercel.app/api/top-langs/?username=raul-hdez&layout=compact)
