@@ -1,45 +1,65 @@
-<h1 align="center">Hi 👋, I'm Raúl Hernández</h1>
-<h3 align="center">Web Developer</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=1182&height=100&lines=Hi+👋%2C+I'm+Raúl+Hernández)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=raul-hdez&label=Profile%20views&color=0e75b6&style=flat" alt="raul-hdez" /> </p>
+## Web Developer
 
-- 📄 Linkedin [hernandez-raul](https://www.linkedin.com/in/hernandez-raul/)
+### ✉️ Contact Me
 
-- 📫 How to reach me **raul.hdez.schez.2001@gmail.com**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hernandez-raul/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raul.hdez.schez.2001@gmail.com)
 
+## My Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<h5>Programming Languages</h5>
-<p align="left">
+**Programming Languages**
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
-</p>
+![Java](https://img.shields.io/badge/java-%23ED1B24.svg?&style=for-the-badge&logo=coffeescript&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%233572A5.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 
-<h5>Programming Languages</h5>
-<p align="left">
+**Fameworks & Libraries**
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/> </a>
-</p>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<!-- 
-<h5>Backend Development</h5>
-<p align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-</p>
--->
-<h5>Database</h5>
-<p align="left">
+**Databases**
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a><a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/> </a><a href="https://aws.amazon.com/es/dynamodb/" target="_blank" rel="noreferrer"> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a6/5a3fc03aa849d8bfe1633b15a6ae00/DynamoDBicon-08.jpg?auto=format%2Ccompress&dpr=1" width="50" height="50"/> </a>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
-<h5>DevOps</h5>
-<p align="left">
+**Cloud**
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj" alt="aws" width="50" height="50"/> </a>
-</p>
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-F46D01?style=for-the-badge&logo=firebase&logoColor=white)
+![Lambda](https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![ApiGateway](https://img.shields.io/badge/api_gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-red.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJrYXRtYW5fMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCgkgdmlld0JveD0iMCAwIDM3MjguMDggMjcwNy4wNyIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzcyOC4wOCAyNzA3LjA3OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6I0ZGRkZGRjt9Cgkuc3Qxe2ZpbGw6I0ZGRkZGRjt9Cgkuc3Qye2ZpbGw6I0ZGRkZGRjt9Cgkuc3Qze2ZpbGw6I0ZGRkZGRjt9Cjwvc3R5bGU+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yNTM5LjA4LDU4OS4xNmwyMTUuNDMtNTUuNDdsMS42LDIuMzdsNS40NCwxMzAwLjc4bC03LjA1LDcuMDdsLTQ0LjM5LDEuOWwtMTY4LjUyLTI2LjIzbC0yLjUyLTYuNjRWNTg5LjE2CgkgTTEyOTMuMTQsMTkzNC4yN2wwLjc5LDAuMDZsNTY4LjY2LDE2NS4yNGwxLjQ1LDEuMTFsMi40NywxLjk3bC0wLjgsNDk1LjE0bC0xLjY3LDIuMTFsLTU3MC45LTI3Ny4zNUwxMjkzLjE0LDE5MzQuMjciLz4KPHBhdGggY2xhc3M9InN0MSIgZD0iTTI1MzkuMDgsMTgxMi45M2wtNjc0LjEsMTYxLjQ0bC0zMzguNDUtODEuN2wtMjMzLjM5LDQxLjZsNTcwLjksMTY2LjQxbDg4MS4xMi0yMzguNTVsOS4zNS0xOC4yMgoJTDI1MzkuMDgsMTgxMi45MyIvPgo8cGF0aCBjbGFzcz0ic3QyIiBkPSJNMjQzNC45NCw3NjkuNDNsLTUuNDktNi4yNmwtNTU5LjI4LTE2Mi41MWwtNi4xNCwyLjM3bC01LjYyLTIuODdMOTc4LjM4LDg1My45M2wtNC44MSw1Ljg4bDcuMDYsMy44NwoJbDIwMS4yNSwyOS41MWw3LjExLTIuNDJsNjc0LjEtMTYxLjQzbDMzOC40NSw4MS43TDI0MzQuOTQsNzY5LjQzIi8+CjxwYXRoIGNsYXNzPSJzdDMiIGQ9Ik0xMTg5LDIxMTQuNTVsLTIxNS40Myw1MmwtMC4zOC0xLjI1bC04LjQ4LTEyOTUuOTJsOC44Ni05LjU4TDExODksODkwLjc3VjIxMTQuNTUiLz4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTE0NzkuODQsMTYxMS44NmwzODQuMiw0NS4wN2wyLjg4LTQuMzFsMS41Ni02MDAuOTNsLTQuNDUtNC45MmwtMzg0LjIsNDUuMDdWMTYxMS44NiIvPgo8cGF0aCBjbGFzcz0ic3QzIiBkPSJNMjI0OC4yNCwxNjExLjg2bC0zODQuMiw0NS4wN3YtNjEwLjE2bDM4NC4yLDQ1LjA3VjE2MTEuODYgTTI0MzQuOTQsNzY5LjQzbC01NzAuOS0xNjYuNFYxMDMuODFsNTcwLjksMjc3LjM0CglWNzY5LjQzIi8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xODY0LjA0LDEwMy44MWwtMTA3MCw1MTYuNTV2MTQ2Mi45OGwxNzkuNTMsODMuMjFWODU5LjhsODkwLjQ3LTI1Ni43N1YxMDMuODEiLz4KPHBhdGggY2xhc3M9InN0MyIgZD0iTTI3NTQuNTEsNTMzLjY5VjE4NDMuOWwtODkwLjQ3LDI1Ni43OHY0OTkuMjJsMTA3MC01MTYuNTZWNjIwLjM2TDI3NTQuNTEsNTMzLjY5Ii8+Cjwvc3ZnPg==&style=for-the-badge)
+![CloudFront](https://acortar.link/iOHnps)
+![Amplify](https://img.shields.io/badge/Amplify-red.svg?&style=for-the-badge&logo=awsamplify&logoColor=white)
 
-<h5>Other</h5>
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a><a href="https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--WHWcjNdE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://my-bucket-image2.s3.amazonaws.com/ImageGitHub/git-flow-logo.png" alt="gitflow" width="50" height="50"/> </a>
-</p>
+**Other**
+
+![Postman](https://img.shields.io/badge/Postman-E7352C?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-00ED00?style=for-the-badge&logo=swagger&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**OS**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## Stats
+
+![GitHub stats](https://github-readme-stats-one-delta-27.vercel.app/api?username=raul-hdez&count_private=true)
+![Top Langs](https://github-readme-stats-one-delta-27.vercel.app/api/top-langs/?username=raul-hdez&layout=compact)
